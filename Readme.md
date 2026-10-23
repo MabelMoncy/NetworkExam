@@ -62,6 +62,8 @@ Stop with `Ctrl+C`. Raw socket capture requires root privileges. It reports IPv4
 packets, packet size, source IP and destination IP.
 
 ---
+## Clone the Repo
+`git clone https://github.com/MabelMoncy/NetworkExam`
 
 ## Important Notes
 
